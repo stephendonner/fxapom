@@ -1,4 +1,4 @@
-FROM ubuntu:xenial
+FROM ubuntu:artful
 
 ENV DEBIAN_FRONTEND=noninteractive \
   MOZ_HEADLESS=1 \
